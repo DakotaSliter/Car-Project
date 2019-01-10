@@ -1,0 +1,47 @@
+body {
+	width: 90%;
+	margin: 50px auto;
+	margin-top: 80px;
+	text-align: center;
+	padding: 10px;
+	border-right: 0.5px solid black;
+	border-left: 0.5px solid black;
+	
+}
+#container {
+	
+	padding: 10px;
+	width: 70%;
+	margin: 0 auto;
+
+}
+nav ul {
+	list-style: none;
+}
+nav {
+	position: fixed;
+	height: 60px;
+	top: 0;
+	left: 0;
+	width: 100%;
+	border-bottom: 2px solid black;
+	background: white;
+	
+}
+nav img {
+	height: 60px;
+}
+#container img {
+	height: 200px;
+	width: 100%;
+}
+
+#signup {
+	background: lightblue;
+	padding: 10px;
+	margin: 10px;
+}
+
+.uploadedImage img {
+	height: 400px;
+}
